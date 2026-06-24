@@ -1,5 +1,5 @@
 # example-repo
 
-Contains a python project called "Hello_World.py"
+Contains a python project called "jokes.py"
 
-The project requests the user's name and greets them.
+The project prints a random joke picked from a list.
